@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-I'm a software engineer with a 6 years of professional experience, primarily in backend systems ranging from web platforms to data pipelines to authentication services.
+I'm a software engineer with 6 years of professional experience, primarily in backend systems ranging from web platforms to data pipelines to authentication services.
 
 Most recently, I had the opportunity to take a sabbatical at [The Recurse Center](https://www.recurse.com), where I delved into a mix of programming projects ranging from game development in [Godot](https://godotengine.org), to implementing computer networking protocols (eg. DNS, TCP), to experimenting with tools I'd been curious about (eg. browser extension development, Swift, fast.ai, etc).
 
